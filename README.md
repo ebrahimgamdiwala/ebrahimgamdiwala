@@ -51,6 +51,13 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikitlearn logo" />
 </div>
 
+<div align="left">
+  <p><strong>Other Languages:</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+</div>
+
 ###
 
 <div align="left">
