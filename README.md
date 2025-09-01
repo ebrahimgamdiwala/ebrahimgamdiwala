@@ -10,12 +10,12 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
 
 <p align="center">
   <a href="https://github.com/ebrahimgamdiwala">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimgamdiwala&theme=radical&border=7F3FBF&background=0D1117?v=1" alt="Ebrahim's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimgamdiwala&theme=radical&border=7F3FBF&background=0D1117" alt="Ebrahim's GitHub streak"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ebrahimgamdiwala">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahimgamdiwala&theme=radical?v=1" alt="Ebrahim's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahimgamdiwala&theme=radical" alt="Ebrahim's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
@@ -24,7 +24,7 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <br/>
 </p>
 
-<img align="right" height="170" src="https://i.gifer.com/origin/3f/3fcf56b55ca3af75904cf164673974c8_w200.gif?v=1"  />
+<img align="right" height="170" src="https://i.gifer.com/origin/3f/3fcf56b55ca3af75904cf164673974c8_w200.gif"  />
 
 ###
 
@@ -92,7 +92,7 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
 
 <br clear="both">
 
-![Ebrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimgamdiwala&custom_title=Ebrahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true?v=1)
+![Ebrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimgamdiwala&custom_title=Ebrahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://raw.githubusercontent.com/ebrahimgamdiwala/ebrahimgamdiwala/output/snake.svg" alt="Snake animation" />
 
