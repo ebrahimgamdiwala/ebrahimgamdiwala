@@ -8,12 +8,21 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimgamdiwala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrahimgamdiwala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://github.com/ebrahimgamdiwala">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimgamdiwala&theme=radical&border=7F3FBF&background=0D1117" alt="Ebrahim's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ebrahimgamdiwala">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahimgamdiwala&theme=radical" alt="Ebrahim's GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+    <a href="https://github.com/ebrahimgamdiwala"><img alt="Ebrahim's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ebrahimgamdiwala&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ebrahimgamdiwala"><img alt="Ebrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebrahimgamdiwala&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</p>
 
 <img align="right" height="170" src="https://i.gifer.com/origin/3f/3fcf56b55ca3af75904cf164673974c8_w200.gif"  />
 
@@ -27,6 +36,8 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
@@ -36,6 +47,12 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 <div align="left">
@@ -56,6 +73,8 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
 ###
@@ -72,6 +91,8 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
 ###
 
 <br clear="both">
+
+![Ebrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimgamdiwala&custom_title=Ebrahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://raw.githubusercontent.com/ebrahimgamdiwala/ebrahimgamdiwala/output/snake.svg" alt="Snake animation" />
 
