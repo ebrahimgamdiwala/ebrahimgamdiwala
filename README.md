@@ -24,8 +24,6 @@ I'm a MERN Full Stack Developer and a third-year Computer Science (Data Science)
   <br/>
 </p>
 
-<img align="right" height="170" src="https://i.gifer.com/origin/3f/3fcf56b55ca3af75904cf164673974c8_w200.gif"  />
-
 ###
 
 <div align="left">
